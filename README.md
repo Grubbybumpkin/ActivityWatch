@@ -1,0 +1,2 @@
+# ActivityWatch
+ActivityWatch Editor
